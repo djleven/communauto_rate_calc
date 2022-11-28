@@ -1,0 +1,84 @@
+{
+  "appTitle": "Communauto Rate Calculator",
+  "@appTitle": {
+    "description": "The app title"
+  },
+  "newTrip": "Calculate new trip",
+  "@newTrip": {
+    "description": "The app title"
+  },
+  "compareTripRates": "Compare pricing",
+  "@compareTripRates": {
+    "description": "Compare trip rates results title"
+  },
+  "planOpen": "Open",
+  "@planOpen": {
+    "description": "The label for the Open subscription plan"
+  },
+  "planOpenPlus": "Open Plus",
+  "@planOpenPlus": {
+    "description": "The label for the Open+ subscription plan"
+  },
+  "planValue": "Value",
+  "@planValue": {
+    "description": "The label for the Value subscription plan"
+  },
+  "planValuePlus": "Value Plus",
+  "@planValuePlus": {
+    "description": "The label for the Value+ subscription plan"
+  },
+  "planValueExtra": "Value Extra",
+  "@planValueExtra": {
+    "description": "The label for the Value Extra subscription plan"
+  },
+  "modeFlex": "Flex",
+  "@modeFlex": {
+    "description": "The label for the Flex Communauto mode"
+  },
+  "modeRoundTrip": "Round-trip",
+  "@modeRoundTrip": {
+    "description": "The label for the Round-Trip (station) Communauto mode"
+  },
+  "validationFieldError": "Please enter a valid {field}",
+  "@validationFieldError": {
+    "description": "Validation error message",
+    "placeholders": {
+      "field": {
+        "example": "Start date"
+      }
+    }
+  },
+
+  "alberta": "Alberta",
+  "calgary": "Calgary",
+  "edmonton": "Edmonton",
+  "novaScotia": "Nova Scotia",
+  "halifax": "Halifax",
+  "ontario": "Ontario",
+  "toronto": "Toronto",
+  "restOfOntario": "Rest of Ontario *",
+  "quebec": "Québec",
+  "gatineau": "Gatineau",
+  "montreal": "Montreal",
+  "sherbrooke": "Sherbrooke",
+  "troisRivieres": "Trois Rivieres",
+
+  "restOfOntarioExplanation": "The 'Rest of Ontario' represents Cambridge, Guelph, Hamilton, Kingston, Kitchener, London, Ottawa and Waterloo",
+
+  "homePage": "Communauto Rate Calculator",
+  "startDate": "Start date",
+  "endDate": "End date",
+  "city": "City",
+  "distance": "Distance",
+  "hintDistance": "Distance (km)",
+  "excludePromo": "Exclude promotion",
+  "requiredField": "Required Field",
+  "submitInfo": "Estimate trip cost",
+  "durationCost": "duration",
+  "distanceCost": "distance",
+  "aboutUs": "About",
+  "settings": "Settings",
+  "changeLanguage": "Change Language",
+  "noConnectionError": "Error: Please check your internet connection and try again.",
+  "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+}
