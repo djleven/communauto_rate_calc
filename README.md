@@ -1,15 +1,21 @@
-# communauto_calc
 
-A new Flutter project.
+# Communauto Rate Calculator
 
-## Getting Started
+A simple Flutter app to calculate trip rates for the various Communauto plans.
 
-This project is a starting point for a Flutter application.
+<img src="./assets/app-logo-readme.png" alt="app logo" width="740"/>
 
-A few resources to get you started if this is your first Flutter project:
+**This app is not affiliated to - nor endorsed by - Communauto**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Screenshots
+
+<div>
+<img src="./assets/main.png" alt="app main page" width="250"/>
+<img src="./assets/results.png" alt="app results" width="250"/>
+<img src="./assets/city-select.png" alt="app city select" width="250"/>
+</div>
+
+### Getting Started with Flutter
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
