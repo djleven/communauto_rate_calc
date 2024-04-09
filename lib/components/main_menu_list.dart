@@ -20,7 +20,7 @@ class MainMenuList extends StatelessWidget {
           const DrawerHeader(
             child: SizedBox(
               height: 100,
-              child: Image(image: AssetImage('assets/app-logo-round.png')),
+              child: Image(image: AssetImage('assets/app-logo.png')),
             ),
           ),
           ListTile(

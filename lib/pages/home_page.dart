@@ -33,12 +33,12 @@ class HomePageState extends State<HomePage> {
         //ROW 1
         children: <Widget>[
           const SizedBox(
-            height: 165, // constrain height
-            child: Image(image: AssetImage('assets/communauto-logo.png')),
+            height: 100, // constrain height
+            child: Image(image: AssetImage('assets/app-logo.png')),
           ),
           Expanded(
             child: Container(
-              padding: const EdgeInsets.fromLTRB(20, 0, 20, 0),
+              padding: const EdgeInsets.fromLTRB(20, 20, 20, 0),
               child: const TripParametersForm(),
             ),
           ),
